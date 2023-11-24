@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @nisooom
-- 👀 I’m interested in coding, data handling, web development (backend and frontend)
-- 🌱 I’m currently learning C
-- I have basic to intermediate knowledge about Python, Java, HTML, CSS
+- 👀 I’m interested in coding, data handling, data science and web development (backend and frontend)
+- 🌱 I’m currently learning C++
+- I have intermediate to advanced knowledge about Python, Java, C
+- And basic to intermediate knowledge about HTML, CSS
 - 📫 How to reach me on email, shahnishumbh55@gmail.com
 - Im currently in uni studying B.Tech in Data Science and Artificial Intelligence.
 

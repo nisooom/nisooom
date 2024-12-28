@@ -36,8 +36,7 @@ Let's connect: [Linkedin](https://www.linkedin.com/in/nishumbh/) | [Twitter](htt
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/nextjs/nextjs-plain.svg
-  " height="30" alt="css3 logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/nextjs/nextjs-plain.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   </div>
 

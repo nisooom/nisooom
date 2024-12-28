@@ -5,11 +5,12 @@ I'm Nisoom!
 ML Developer | Learning IoT & Web Development
 
 🚀 Passionate about coding, open-source, and building cool projects.
-🔧 Always exploring new technologies and learning every day.
-📈 Check out my repositories, and feel free to contribute or collaborate!
-💬 
 
-Let's connect: [Linkedin](https://www.linkedin.com/in/nishumbh/) | [Twitter](https://x.com/nishumbhshah) 
+🔧 Always exploring new technologies and learning every day.
+
+📈 Check out my repositories, and feel free to contribute or collaborate!
+
+💬 Let's connect: [Linkedin](https://www.linkedin.com/in/nishumbh/) | [Twitter](https://x.com/nishumbhshah) 
 
 
 

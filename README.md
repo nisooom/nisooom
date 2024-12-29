@@ -4,7 +4,7 @@ I'm Nisoom!
 
 ML Developer | Learning IoT & Web Development
 
-🚀 Passionate about coding, open-source, and building cool projects.
+🚀 Passionate about coding, and building cool projects.
 
 🔧 Always exploring new technologies and learning every day.
 

@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋!</h2>
 
-I'm Nisoom!
+I'm Nishumbh!
 
 ML Developer | Learning IoT & Web Development
 
